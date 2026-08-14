@@ -31,7 +31,7 @@ FFmpeg instalado na máquina e adicionado às variáveis de ambiente (PATH).
 
 Instalação
 Clone este repositório:
-git clone https://github.com/SEU_USUARIO/DivisionX.git
+git clone https://github.com/yukkibr/DivisionX.git
 cd DivisionX
 
 Instale as dependências:
