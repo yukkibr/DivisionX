@@ -66,4 +66,10 @@ pyinstaller --noconfirm --onedir --windowed \
 Este projeto está licenciado sob a **GNU General Public License v3.0 (GPL-3.0)**. Isso significa que o aplicativo é livre e de código aberto. Você pode usar, modificar e distribuir, desde que as modificações também sejam abertas sob a mesma licença.
 
 ---
-*Desenvolvido por Eduardo Campos*
+<div align="center">
+  <a href="https://github.com/yukkibr">
+    <img src="https://github.com/yukkibr.png" width="80px" style="border-radius: 50%;" alt="Eduardo Campos"/>
+  </a>
+  <br>
+  <i>Desenvolvido por <a href="https://github.com/yukkibr">Eduardo Campos</a></i>
+</div>
