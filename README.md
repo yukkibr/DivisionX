@@ -10,12 +10,6 @@
   </p>
 </div>
 
-# DivisionX 🎧
-
-![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg)
-![OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux-success.svg)
-
 **DivisionX** é um downloader de áudio multi-plataforma e otimizador construído com Python e CustomTkinter. Desenvolvido para ser rápido, robusto e lidar perfeitamente com metadados e conversões pesadas de áudio.
 
 Além de baixar músicas em alta qualidade com injeção automática de capas (ID3 tags), o sistema conta com um **Modo Tok Escola**, que padroniza faixas de áudio especificamente para sistemas de som escolares e PAs antigos, evitando travamentos por excesso de metadados ou taxas de amostragem incompatíveis.
