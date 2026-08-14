@@ -30,7 +30,7 @@ Além de baixar músicas em alta qualidade com injeção automática de capas (I
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/DivisionX.git](https://github.com/SEU_USUARIO/DivisionX.git)
+   git clone https://github.com/yukkibr/DivisionX
    cd DivisionX
    
 2. Instale as dependências:
