@@ -1,3 +1,15 @@
+<div align="center">
+  <img src="logo.png" alt="DivisionX Logo" width="200"/>
+  
+  <h1>DivisionX 🎧</h1>
+
+  <p>
+    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License">
+    <img src="https://img.shields.io/badge/Python-3.8+-yellow.svg" alt="Python">
+    <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-success.svg" alt="OS">
+  </p>
+</div>
+
 # DivisionX 🎧
 
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
