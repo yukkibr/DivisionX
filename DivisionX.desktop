@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=DivisionX
+Comment=Downloader Multi-plataforma e Otimizador de Áudio
+Exec="/home/informatica/Área de trabalho/NovoSinal/dist/app/app"
+Icon=/home/informatica/Área de trabalho/NovoSinal/logo.png
+Terminal=false
+Type=Application
+Categories=Utility;AudioVideo;
